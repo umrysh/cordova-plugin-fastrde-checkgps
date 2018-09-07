@@ -1,4 +1,8 @@
 {
-  "name": "cordova-plugin-fastrde-checkgps",
-   "version": "1.0.0"
+    "name": "cordova-plugin-fastrde-checkgps",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/umrysh/cordova-plugin-fastrde-checkgps.git"
+    }
 }
