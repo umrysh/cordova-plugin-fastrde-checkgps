@@ -5,8 +5,8 @@
 	<description>check if GPS is enabled on Android and iOS</description>
 	<license>MIT</license>
 	<keywords>gps, check, enabled, ios, android </keywords>
-	<repo>https://github.com/fastrde/cordova-plugin-fastrde-checkgps.git</repo>
-	<issue>https://github.com/fastrde/cordova-plugin-fastrde-checkgps/issues</issue>
+	<repo>https://github.com/umrysh/cordova-plugin-fastrde-checkgps.git</repo>
+	<issue>https://github.com/umrysh/cordova-plugin-fastrde-checkgps/issues</issue>
 	<dependency id="cordova-plugin-geolocation" />
 	<js-module src="www/CheckGPS.js" name="CheckGPS">
 		<clobbers target="CheckGPS" />
